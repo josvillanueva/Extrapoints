@@ -35,6 +35,10 @@ Since the objective is to minimize the cost, this is a minimization problem. The
 
 Run the WhiskasModel1.py code. (no need to make changes, just run it as is) What is the value of the following variables. 
 Status: 
+
 Beef Percent =66.0
+
  Chicken Percent =34.0
+ 
 Total Cost of Ingredients per can =0.97
+
